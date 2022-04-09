@@ -1,0 +1,31 @@
+The Twins: 51696 and 51697
+pid1:The Child: 51696 The Parent: 51695
+pid2:The Child: 51697 The Parent: 1
+
+The Twins: 51725 and 51726
+pid1:The Child: 51725 The Parent: 51724
+pid2:The Child: 51726 The Parent: 1
+
+The Twins: 51741 and 51742
+pid2:The Child: 51742 The Parent: 1
+pid1:The Child: 51741 The Parent: 1
+
+The Twins: 51753 and 51754
+pid1:The Child: 51753 The Parent: 51752
+pid2:The Child: 51754 The Parent: 1
+
+The Twins: 51765 and 51766
+pid1:The Child: 51765 The Parent: 51764
+pid2:The Child: 51766 The Parent: 1
+
+The Twins: 51777 and 51778
+pid2:The Child: 51778 The Parent: 1
+pid1:The Child: 51777 The Parent: 1
+
+The Twins: 51791 and 51792
+pid1:The Child: 51791 The Parent: 51790
+pid2:The Child: 51792 The Parent: 1
+
+The Twins: 51804 and 51805
+pid1:The Child: 51804 The Parent: 51803
+pid2:The Child: 51805 The Parent: 1
