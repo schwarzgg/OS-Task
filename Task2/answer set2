@@ -1,0 +1,10 @@
+We have created a Child process
+Child ID: 4973
+
+The Child: 4974 The Parent: 4973
+
+Something interesting
+    PID TTY          TIME CMD
+   4585 pts/0    00:00:00 bash
+   4973 pts/0    00:00:00 ps
+   4974 pts/0    00:00:00 ps <defunct>
