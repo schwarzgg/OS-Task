@@ -1,0 +1,3 @@
+gcc pc-sem.c -O2 -lpthread && ./a.out x |head -c y
+
+x,y为可输入的值
