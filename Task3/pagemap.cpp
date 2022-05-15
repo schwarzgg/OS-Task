@@ -69,6 +69,5 @@ int main() {
 
   usleep(1000);
   free(p);
-  waitpid();
   return 0;
 }
