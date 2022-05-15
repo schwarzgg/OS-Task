@@ -7,6 +7,8 @@ const ll inf = 1e18;
 const double PI = acos((double)(-1));
 const double eps = 1e-9;
 
+mt19937 rnd(time(NULL));
+
 struct Node {
   int x, pos;
 };
@@ -18,8 +20,7 @@ inline void slv() {
   int cnt = 0;
 
   for (int i = 1; i <= n; i++) {
-    int num;
-    cin >> num;
+    int num=rnd()%(sz+1);
     if (v.size() < sz && s.count(num) == 0) {
       v.push_back({num, cnt++});
       s.insert(num);
