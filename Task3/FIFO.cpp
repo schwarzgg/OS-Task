@@ -20,7 +20,7 @@ inline void slv() {
   for (int i = 1; i <= n; i++) {
     int num;
     cin >> num;
-    if (v.size() < sz) {
+    if (v.size() < sz && s.count(num) == 0) {
       v.push_back({num, cnt++});
       s.insert(num);
     } else {
